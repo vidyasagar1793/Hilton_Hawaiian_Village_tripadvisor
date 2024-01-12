@@ -18,7 +18,7 @@ This project involves a comprehensive analysis of guest reviews and ratings for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hilton-hawaiian-analysis.git
+   git clone https://github.com/vidyasagar1793/Hilton_Hawaiian_Village_tripadvisor.git
    ```
 
 2. Install necessary dependencies:
